@@ -1,0 +1,11 @@
+.env.local
+.env
+__pycache__/
+*.pyc
+outputs/
+uploads/
+node_modules/
+.claude/
+*.pdf
+*.pptx
+debug_screenshots/
